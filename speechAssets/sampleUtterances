@@ -1,0 +1,8 @@
+GetTomorrowsScheduleIntent Get tomorrows schedule
+GetTomorrowsScheduleIntent Get my schedule for tomorrow
+GetTomorrowsScheduleIntent Get my schedule for tomorrow
+GetTomorrowsScheduleIntent Get whats on tomorrow
+GetScheduleByDateIntent Get my schedule for {date}
+GetScheduleByDateIntent Get my appointments for {date}
+GetScheduleByDateIntent Get schedule for {date}
+GetScheduleByDateIntent Get appointments for {date}
